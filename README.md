@@ -11,6 +11,6 @@ Un ejemplo de app en ionic para fotógrafos
 
 - Cambia los textos y referencias a las imagenes y ya tienes una app de ionic responsive
 
-![](C:\Users\pc\Downloads\GIT MIO\v8\v8\MyApp\www\img\app.png)
+![](www/img/app.png)
 
 
